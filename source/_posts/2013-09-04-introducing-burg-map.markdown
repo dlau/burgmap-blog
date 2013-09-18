@@ -56,12 +56,9 @@ The map hosting as well as systems to serve up this resource may get very costly
 
 At least for now, the only avenue for any revenue is from the iPad application. It will provide 100% free access to the maps when online, but users will have to purchase a package to download and browse without an Internet connection. I really can't think of any other non-intrusive way to go about this. Of course, there is the traditional method of advertising, but that can trigger a slippery slope, as we strive to be as unbiased as possible.
 ###Few more things
-I haven't touched on the producer explorer and self wine tracker, as well as the potential information-gathering. I will outline this in a subsequent post.
+I haven't touched on producers, as well as a few more topics. Watch for a subsequent blog post outlining those.
 
-Please e-mail me if you have any suggestions
-{%img http://safemail.justlikeed.net/e/804b38b026d5e2ec667b9603cedd5452.png %}
-or leave a comment below
-
+Please contact me with any suggestions or bugs!
 
 ## Many thanks to...
 [Leaflet](http://leafletjs.com) for their front-end mapping library
