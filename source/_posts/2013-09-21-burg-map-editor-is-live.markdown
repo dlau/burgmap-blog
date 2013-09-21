@@ -6,6 +6,8 @@ comments: true
 categories: burgmap,editor,features 
 ---
 ##Greetings to the ever growing readers! Today I would like to introduce the Burg Map Editor that went live yesterday.
+ 
+ <!--more-->
 
 ####A few notes to the foreign audience.
 
