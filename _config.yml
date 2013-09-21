@@ -4,7 +4,7 @@
 
 url: http://blog.burgmap.com
 title: Burg Map Blog
-subtitle: Finally here ...
+subtitle:
 author: Daryl Lau
 simple_search: http://google.com/search
 description: Burg Map Blog
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: daryl@burgmap.com
+email: contact@burgmap.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #

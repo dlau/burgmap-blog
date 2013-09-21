@@ -1,17 +1,24 @@
-/* the humans responsible & colophon */
-/* humanstxt.org */
-
+---
+layout: nil
+---
 
 /* TEAM */
-  Owner: Adrian Artiles
-  Site: http://AdrianArtiles.com
-  Twitter: @AdrianArtiles
+Author: {{ site.author }}
+Site: {{ root_url }}
+{% if site.social.twitter %}Twitter: https://www.twitter.com/{{ site.social.twitter }}{% endif %}
+{% if site.social.github %}Github: https://www.github.com/{{ site.social.github }}{% endif %}
 
-  UX Designer: Adrian Artiles
-  Site: http://AdrianArtiles.com
-  Twitter: @AdrianArtiles
+/* THANKS */
+Stephen Coogan - Developer of theme, Oscailte (https://github.com/coogie/oscailte/)
+  -- Twitter: https://www.twitter.com/coog_ie
+  -- Github: https://www.github.com/coogie
+  -- Website: http://www.coog.ie/
 
-/* SITE */
-  Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
-  Software: Vim
+/* COLOPHON */
+Components:
+  -- inuit.css (http://inuitcss.com/)
+  -- Navigataur (https://github.com/micjamking/Navigataur/)
+  -- Font Awesome (https://fortawesome.github.com/Font-Awesome/)
+Powered by:
+  -- Jekyll
+  -- Octopress
