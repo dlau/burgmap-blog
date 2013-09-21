@@ -27,3 +27,15 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 
 // Add a little horizontal space in dt elements
 .dl-horizontal dt { width: 135px; }
+
+
+img{
+    &.right{
+        float: right;
+        margin-left: 1.5em;
+    }
+    &.left{
+        float: left;
+        margin-right: 1.5em;
+    }
+}
